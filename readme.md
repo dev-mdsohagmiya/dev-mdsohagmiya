@@ -41,30 +41,7 @@ Experienced Front-end Developer with a strong background in building dynamic, us
 
 ---
 
-## Projects
 
-### **Real Estate Platform (Fiverr Client Project)**
-**[estatery](https://estatery-ashy.vercel.app/)**  
-
-- Converted a **17+ page Figma design** into a Next.js web application.
-- Implemented **ShadCN UI** and **Tailwind CSS** for a sleek, responsive design.
-- Developed core features for **buying, selling, and renting properties**.
-- Optimized performance, accessibility, and user experience.  
-🔗 **[GitHub Repo](https://github.com/dev-mdsohagmiya/estatery)**
-
-### **Ethere**
-**[ethere.vercel.app](https://ethere.vercel.app/)**  
-- Converted Figma design to **Next.js (TypeScript) & Tailwind CSS**.
-- High-performance, scalable frontend for a web application.  
-🔗 **[GitHub Repo](https://github.com/dev-mdsohagmiya/ethere)**
-
-### **SingleProductAddApp**
-**[simple-product-app.onrender.com](https://simple-product-app.onrender.com/)**  
-- Built with **MERN stack** (MongoDB, Express, React, Node.js).
-- Focused on **smooth product addition & management**.
-🔗 **[GitHub Repo](https://github.com/dev-mdsohagmiya/simple-product-app)**
-
----
 
 ## Skills
 
@@ -75,10 +52,7 @@ Experienced Front-end Developer with a strong background in building dynamic, us
 
 ---
 
-## Languages
 
-- **English**
-- **Bangla**
 
 ---
 
