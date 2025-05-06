@@ -53,9 +53,6 @@ Experienced Front-end Developer with a strong background in building dynamic, us
 ---
 
 
-
----
-
 ## Interests
 
 - Exploring new technologies
