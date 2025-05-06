@@ -33,7 +33,7 @@ Experienced Front-end Developer with a strong background in building dynamic, us
 **Freelance Front-end Developer | Fiverr (Level One) & Upwork**  
 📅 **01/2022 – Present**  
 
-- **Fiverr Level One Seller** with 25+ successfully completed orders and positive client feedback.
+- **Fiverr Level One Seller** with 30+ successfully completed orders and positive client feedback.
 - Completed **4 projects on Upwork**, earning **$400+**.
 - Developed and optimized front-end applications using **React.js, Next.js, and Expo**.
 - Specialized in bug fixing, UI enhancements, and performance improvements.
