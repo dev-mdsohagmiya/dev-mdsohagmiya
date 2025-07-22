@@ -6,7 +6,7 @@ dev.mdsohagmiya@gmail.com
 📞 +8801724686857  
 📍 5420 Taraganj, Rangpur, Bangladesh  
 
-[GitHub](https://github.com/dev-mdsohagmiya) | [LinkedIn](http://linkedin.com/dev-mdsohagmiya) | [Facebook](https://www.facebook.com/dev.mdsohagislam) | [Telegram](https://t.me/dev_mdsohagmiya) | [WhatsApp](https://api.whatsapp.com/send?phone=8801623850673)
+[GitHub](https://github.com/dev-mdsohagmiya) | [LinkedIn](https://www.linkedin.com/in/dev-mdsohagmiya) | [Facebook](https://www.facebook.com/dev.mdsohagislam) | [Telegram](https://t.me/dev_mdsohagmiya) | [WhatsApp](https://api.whatsapp.com/send?phone=8801623850673)
 
 ---
 
